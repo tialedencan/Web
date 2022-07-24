@@ -1,0 +1,300 @@
+
+#sidebar{
+    position:absolute;
+    left:-2px;
+    top:-2px;
+    bottom:-2px;
+    border:2px solid rgb(53, 222, 235);
+
+    text-align: center;
+    width:15%;
+    height: 100%;
+    padding-top: 15%;
+}
+
+.logoo{
+    position:absolute;
+    top:15px;
+}
+.logo{
+    width: 200px;
+    top:15px;
+    left:5px;
+}
+li{
+    padding-left: 2px;
+    text-decoration: none;
+    list-style: none;
+    padding-bottom: 3px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration:none;
+    color:rgb(35, 193, 204);
+}
+nav a:hover {
+    color:rgb(53,222,235);
+    
+}
+
+.slika{
+    position: relative;
+    left:14.89%;
+    top:-7px;
+    width:1280px;
+}
+
+
+.i{
+    object-fit: cover;
+    position: absolute;
+    top:0;
+    left: 0;
+    width:100%;
+}
+
+.contact{
+    color:rgb(35, 193, 204);
+}
+
+.naslov{
+    z-index: 5;
+    position:absolute;
+    top:50px;
+    color:rgb(55, 5, 78);
+    text-align: center;
+    font-size: 80px;
+    left:465px;
+    top:100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    
+}
+
+.naslov:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+
+.yellowline1{
+    position: absolute;
+    top:510px;
+    height:2px;
+    width:100%;
+    background-color: rgb(212, 210, 47);
+    border: none;
+}
+
+.line1{
+    position: absolute;
+    top:520px;
+    height:2px;
+    width:100%;
+    background-color: rgb(53, 222, 235);;
+    border: none;
+}
+
+.line2{
+    position: absolute;
+    top:850px;
+    height:2px;
+    width:100%;
+    background-color: rgb(53, 222, 235);;
+    border: none;
+}
+
+.yellowline2{
+    position: absolute;
+    top:860px;
+    height:2px;
+    width:100%;
+    background-color: rgb(212, 210, 47);
+    border: none;
+}
+
+
+.tes-nav{
+
+    position: absolute;
+    text-align: center;
+    top:700px;
+    left:70px;
+}
+
+.first{
+    position:relative;
+}
+.surf{
+
+    position:absolute;
+    left:250px;
+    width:400px;
+    top:550px;
+    
+}
+
+.surf:hover{
+    transform: scale(1.0);
+    transition-duration: 1s;
+}
+
+.thrills{
+
+    position:absolute;
+    z-index: 4;
+    left:550px;
+    top:750px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color:white;
+}
+
+.thrills:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+#th-title{
+    position:absolute;
+    top:35px;
+    left:400px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(25, 197, 197);
+}
+#text-thrills{
+    position:absolute;
+    left:400px;
+    top:100px;
+    font-size: 18px;
+    width: 900px;
+}
+
+
+
+.secound{
+    position:relative;
+}
+.food{
+
+    position:absolute;
+    left:650px;
+   /*width:400px;*/
+   height: 266.66px;
+    top:550px;
+    
+}
+
+.food:hover{
+    transform: scale(1.0);
+    transition-duration: 1s;
+}
+.essence{
+
+    position:absolute;
+    z-index: 4;
+    left:910px;
+    top:750px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color:white;
+}
+
+.essence:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+
+
+.third{
+    position:relative;
+}
+.scen-img{
+
+    position:absolute;
+    left:1050px;
+    width:400px;
+    height: 266.66px;
+    top:550px;
+    
+}
+
+.scen-img:hover{
+    transform: scale(1.0);
+    transition-duration: 1s;
+}
+
+.scenic{
+
+    position:absolute;
+    z-index: 4;
+    left:1350px;
+    top:750px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color:white;
+}
+
+.scenic:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+
+.title-sc{
+    position:absolute;
+    top:35px;
+    left:400px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(25, 197, 197);
+}
+.scenic-text{
+
+    position:absolute;
+    left:400px;
+    top:100px;
+    font-size: 18px;
+    width: 900px;
+}
+
+.video{
+
+    position:absolute;
+    top:500px;
+    left:500px;
+}
+
+.con{
+
+    font-size: 15px;
+    color:rgb(66, 15, 92);
+}
+
+.img-food{
+
+    position:absolute;
+    top:500px;
+    left:230px;
+    width:1289px;
+    height: 450px;
+    border-top: 2px solid rgb(53, 222, 235);
+}
+
+.img-scuba{
+
+    position:absolute;
+    top:550px;
+    left:230px;
+    width:1289px;
+    height: 400px;
+    border-top: 2px solid rgb(53, 222, 235);
+}
+
+.sc-img{
+    position:absolute;
+    top:530px;
+    left:230px;
+    width:1289px;
+    height: 420px;
+    border-top: 2px solid rgb(53, 222, 235);
+}
